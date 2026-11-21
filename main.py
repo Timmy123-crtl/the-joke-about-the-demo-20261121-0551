@@ -27,7 +27,7 @@ import os
 JOKE = (
     "My coding agent demoed the new feature live, clicked the wrong "
     "button with total confidence, and narrated the error message like "
-    "it was the keynote \u2014 the room applauded the crash."
+    "it was the keynote \u2014 the room gave the crash a standing ovation."
 )
 
 
